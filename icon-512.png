@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchBucket</Code><Message>The specified bucket does not exist</Message><BucketName>onesignal-web-assets-production</BucketName><RequestId>2YNV7S6PEZF39PXK</RequestId><HostId>nfIWieiicaYTdAYMecSSKf4DuyxjicYNkK48ZIdos26t4/ITGIP2bV7MOnjs+Yv5y775ynkbyKo=</HostId></Error>
